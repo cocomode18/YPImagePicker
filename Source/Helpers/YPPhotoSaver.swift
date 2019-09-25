@@ -6,7 +6,7 @@
 //  Copyright © 2016 Yummypets. All rights reserved.
 //
 
-import UIKit.UIImage
+import UIKit
 import Photos
 
 public class YPPhotoSaver {
